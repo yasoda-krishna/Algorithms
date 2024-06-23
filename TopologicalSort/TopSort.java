@@ -128,7 +128,7 @@ class Graph {
  * Date : 06/22/2023
  * Time : 02:06 PM
  */
-public class topSort {
+public class TopSort {
     /**
      * Main method that takes input from user and parses it to the required format
      * and
